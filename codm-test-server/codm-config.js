@@ -1,14 +1,14 @@
 const testServerData = {
     
     // 1 = Open | 0 = Closed
-    status: 0,
+    status: 1,
     
-    lastUpdated: "July 25, 2026",
+    lastUpdated: "August 22, 2026",
     
     // Server Build Information
-    updateDescription: "New Season Battle Pass, Collaboration Themes & Weapons", 
-    season: "Season 6",         
-    releaseDate: "June 11, 2026",
+    updateDescription: "We are about halfway through Season 7 of Call of Duty: Mobile, but our next season comes with a full App Store update, so that means it is also time for another Public Test Build! This time around we have a lot of smaller changes that we are sure dedicated CODM players will immediately notice around what's possibly coming out in Season 8 or Season 9.", 
+    season: "Season 8, 9",         
+    releaseDate: "August 22, 2026",
 
     links: [
         {
@@ -17,11 +17,11 @@ const testServerData = {
         },
         {
             device: "Android (32-bit)",
-            url: "https://ms.spr.ly/CODM_32bit_0611"
+            url: "https://bit.ly/CODM_32bit_0821"
         },
         {
             device: "Android (64-bit)",
-            url: "https://ms.spr.ly/CODM_64bit_0611"
+            url: "https://bit.ly/CODM_64bit_0821"
         }
     ]
 
