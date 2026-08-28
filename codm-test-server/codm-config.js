@@ -1,7 +1,7 @@
 const testServerData = {
     
     // 1 = Open | 0 = Closed
-    status: 1,
+    status: ,
     
     lastUpdated: "August 22, 2026",
     
