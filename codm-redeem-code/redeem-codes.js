@@ -1,6 +1,10 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: PHWEEKEND2L4VA
+version: Garena
+data-added: Aug 31, 2026
+
 r-code: CODMTayoCN54D
 version: Garena
 data-added: Aug 29, 2026
