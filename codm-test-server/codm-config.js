@@ -4,7 +4,7 @@ const testServerData = {
     status: 0
     ,
     
-    lastUpdated: "August 22, 2026",
+    lastUpdated: "August 29, 2026",
     
     // Server Build Information
     updateDescription: "Call of Duty: Mobile - August 21st Public Test Build. We are about halfway through Season 7 of Call of Duty: Mobile, but our next season comes with a full App Store update, so that means it is also time for another Public Test Build! This time around we have a lot of smaller changes that we are sure dedicated CODM players will immediately notice around what's possibly coming out in Season 8 or Season 9.", 
