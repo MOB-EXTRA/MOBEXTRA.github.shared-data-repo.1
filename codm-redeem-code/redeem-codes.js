@@ -1,6 +1,7 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
-CodesData = `
+
+
 
 r-code: 50KDISCORD
 version: Garena
