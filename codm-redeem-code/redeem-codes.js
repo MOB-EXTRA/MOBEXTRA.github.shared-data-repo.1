@@ -1,5 +1,10 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
+CodesData = `
+
+r-code: 50KDISCORD
+version: Garena
+data-added: Sep 14, 2026
 
 r-code: PHWEEKEND2L4VA
 version: Garena
