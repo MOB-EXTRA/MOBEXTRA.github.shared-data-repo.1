@@ -1,7 +1,29 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: SUSUCODMTH
+version: Garena
+data-added: Sep 19, 2026
 
+r-code: ThunderMS59PT
+version: Garena
+data-added: Sep 19, 2026
+
+r-code: WELOVECODM
+version: Garena
+data-added: Sep 19, 2026
+
+r-code: FlameXGJTXL
+version: Garena
+data-added: Sep 19, 2026
+
+r-code: FlameFKE8IZ
+version: Garena
+data-added: Sep 19, 2026
+
+r-code: Flame88REGO
+version: Garena
+data-added: Sep 19, 2026
 
 r-code: 50KDISCORD
 version: Garena
