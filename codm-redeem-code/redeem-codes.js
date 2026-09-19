@@ -1,6 +1,10 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: THUNDERQ8B0HS
+version: Garena
+data-added: Sep 19, 2026
+
 r-code: SUSUCODMTH
 version: Garena
 data-added: Sep 19, 2026
