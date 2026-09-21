@@ -1,6 +1,10 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: FREEMYTHICEVENT
+version: Global
+data-added: Sep 22, 2026
+
 r-code: SEP26LOGIN
 version: Garena
 data-added: Sep 20, 2026
