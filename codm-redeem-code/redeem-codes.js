@@ -1,6 +1,10 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: TITOCODMCARES
+version: Unknown
+data-added: Sep 23, 2026
+
 r-code: FREEMYTHICEVENT
 version: Global
 data-added: Sep 22, 2026
