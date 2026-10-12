@@ -1,6 +1,50 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: CODMGBRC8MZ3QK
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: CODMGBRCB2H7VD
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: CODMGBRCY9C5LF
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDREZBZFUT
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDRDZBZJPR
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDRCZBZDC4
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDRBZBZJPP
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDRAZBZTEM
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDQUZBZCP5
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDGFZBZAHT
+version: Garena
+data-added: Oct 12, 2026
+
+r-code: DDGEZBZPGB
+version: Garena
+data-added: Oct 12, 2026
+
 r-code: DDGCZBZGJ3
 version: Garena
 data-added: Oct 03, 2026
