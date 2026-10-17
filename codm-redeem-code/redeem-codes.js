@@ -54,7 +54,7 @@ version: Garena
 data-added: Oct 03, 2026
 
 r-code: TITOCODMCARES
-version: Unknown
+version: Garena
 data-added: Sep 23, 2026
 
 r-code: FREEMYTHICEVENT
