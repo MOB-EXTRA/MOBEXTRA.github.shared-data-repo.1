@@ -4,12 +4,12 @@ const testServerData = {
     status: 0
     ,
     
-    lastUpdated: "August 29, 2026",
+    lastUpdated: "October 24, 2026",
     
     // Server Build Information
-    updateDescription: "Call of Duty: Mobile - August 21st Public Test Build. We are about halfway through Season 7 of Call of Duty: Mobile, but our next season comes with a full App Store update, so that means it is also time for another Public Test Build! This time around we have a lot of smaller changes that we are sure dedicated CODM players will immediately notice around what's possibly coming out in Season 8 or Season 9.", 
-    season: "Season 8, 9",         
-    releaseDate: "August 21, 2026",
+    updateDescription: "Call of Duty: Mobile - October 23rd Public Test Build. We are nearing one of our biggest seasons of the year, Season 10 7th Anniversary, which is going to be jam-packed with gameplay changes that we've been starting to share about on our official social channels. However, this test build today is more about what is to come after Season 10, including more movement and other fundamental changes to Battle Royale that may be implemented in future updates. This could be in Season 11, Season 1 (2027), or even later next year. Thank you once again to everyone who takes the time to help with this, your support, feedback, and dedication to this game drive our teams forward every day. - CODM Official(reddit)", 
+    season: "Season 10",         
+    releaseDate: "October 23, 2026",
 
     links: [
         {
@@ -18,11 +18,11 @@ const testServerData = {
         },
         {
             device: "Android (32-bit)",
-            url: "https://bit.ly/CODM_32bit_0821"
+            url: "https://bit.ly/CODM_32bit_1023"
         },
         {
             device: "Android (64-bit)",
-            url: "https://bit.ly/CODM_64bit_0821"
+            url: "https://bit.ly/CODM_64bit_1023"
         }
     ]
 
