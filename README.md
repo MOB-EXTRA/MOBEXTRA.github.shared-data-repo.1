@@ -1,6 +1,6 @@
 # MOBEXTRA.github.shared-data
 
-Centralized shared configuration and data repository for PTB Hub and SlimeSpace. This repository utilizes a multi-push remote configuration to automatically synchronize and update across three separate mirrored GitHub repositories simultaneously, ensuring high availability and protection against bandwidth or rate limits.
+Centralized shared configuration and data repository for PTB Hub and SlimeSpace. This repository utilizes a multi-push remote configuration to automatically synchronize and update across three separate mirrored GitHub repositories simultaneously,  e,nsuring high availability and protection against bandwidth or rate limits.
 
 
 ## Workflow Instructions
