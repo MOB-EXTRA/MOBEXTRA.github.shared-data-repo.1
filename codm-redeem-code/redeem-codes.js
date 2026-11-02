@@ -3,7 +3,7 @@ const redeemCodesData = `
 
 r-code: CODMCODEL7HD
 version: Garena
-data-added: Oct 29, 2026
+data-added: Nov 02, 2026
 
 r-code: แบร่ผีหลอก
 version: Garena
