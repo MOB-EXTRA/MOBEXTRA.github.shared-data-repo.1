@@ -1,6 +1,10 @@
 // Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
+r-code: CODMCODEL7HD
+version: Garena
+data-added: Oct 29, 2026
+
 r-code: แบร่ผีหลอก
 version: Garena
 data-added: Oct 29, 2026
