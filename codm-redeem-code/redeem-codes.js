@@ -1,4 +1,4 @@
-// Centralized CODM Redeem Codes Database (TOP  NEWEST)
+// Centralized CODM Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
 r-code: CODMCODEL7HD
