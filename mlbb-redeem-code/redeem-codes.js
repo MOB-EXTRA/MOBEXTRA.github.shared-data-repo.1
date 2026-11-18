@@ -1,17 +1,20 @@
-// Centralized CODM Redeem Codes Database (TOP  NEWEST)
+// Centralized MLBB Redeem Codes Database (TOP NEWEST)
 const redeemCodesData = `
 
-r-code: CODM7Y3H7BW TEST
+r-code: es721azy3
 version: MLBB
 data-added: Nov 18, 2026
 
-r-code: DEFIZBZAGV TEST
+r-code: k0m3fvyza
 version: MLBB
-data-added: Nov 17, 2026
+data-added: Nov 18, 2026
 
-r-code: DEFHZBZAP8 TEST
+r-code: se237hey1
 version: MLBB
-data-added: Nov 17, 2026
+data-added: Nov 18, 2026
 
+r-code: HOLAMLBB
+version: MLBB
+data-added: Nov 18, 2026
 
 `;
